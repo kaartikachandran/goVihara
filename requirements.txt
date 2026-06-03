@@ -1,0 +1,5 @@
+reflex[db]==0.9.2.post2
+reflex-enterprise
+psycopg[binary]>=3.1.8
+geoalchemy2>=0.18
+supabase
